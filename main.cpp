@@ -2,7 +2,7 @@
 /*C语言实现 */ /*运行环境：VC++6.0                                                */
 /************************************************************************/
 #include "stdio.h"
-// #include "conio.h"
+#include "conio.h"
 #include "stdlib.h"
 int PrnMainMenu(void);
 void ProcessLoop(void);
